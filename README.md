@@ -14,4 +14,4 @@ To build the games, ensure the following tools are installed and available in yo
 ## The Games  
 
 ### Moonlander  
-A modern take on the classic moon landing game. The objective is simple: land the lunar module ("The Eagle") softly on the designated site. The game is somewhat difficult, with gameplay confined to a single screen. Moonlander was originally created in January 2024 for the *OneHourGameJam #454*. The game challenges the player with precise control over the landing, offering a fun but demanding experience.  
+My take on the classic moon landing game. Written in Assembler. The objective is simple: land the lunar module ("The Eagle") softly on the designated site. The game is somewhat difficult. Gameplay confined to a single screen. Game was originally created in January 2024 for the *OneHourGameJam #454*. 
