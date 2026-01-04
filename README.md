@@ -14,4 +14,7 @@ To build the games, ensure the following tools are installed and available in yo
 ## The Games  
 
 ### Moonlander  
-My take on the classic moon landing game. Written in Assembler. The objective is simple: land the lunar module ("The Eagle") softly on the designated site. The game is somewhat difficult. Gameplay confined to a single screen. Game was originally created in January 2024 for the *OneHourGameJam #454*. 
+My take on the classic moon landing game. Written in Assembler. The objective is simple: land the lunar module ("The Eagle") softly on the designated site. The game is somewhat difficult. Gameplay confined to a single screen. This game was originally created in January 2024 for the *OneHourGameJam #454*. 
+
+### Olympic Splashdown
+In this game, we are going to relive the Olympics in Paris 2024, especially the swimming events on the Seine. During the games, there were a few issues with water quality, which inspired me to create this satirical game on the topic. Please note that this is a humorous approach, and I mean no offense to the citizens of Paris or anyone living along the Seine. This game was originally made in December 2025 for the *OneHourGameJam #556*. 
