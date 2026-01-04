@@ -2,7 +2,7 @@
 CC = cl65
 PYTHON = python
 PETSII2X = petscii2x.py
-TARGET = olympic-swim.prg
+TARGET = olympicsplashdown.prg
 OBJECTFILES = simpleUpdateSpriteAttributes.s
 LIB = LAMAlib.lib
 CFG = c64-basicfriendly-asm.cfg
