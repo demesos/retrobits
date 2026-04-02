@@ -246,8 +246,6 @@ over_it:
 ;-----------------------------------------------------
 ;-- init routines ------------------------------------
 
-        ; self-destruct first part
-
         lda #0
         m_call displayPETSCII,set_transparent
 

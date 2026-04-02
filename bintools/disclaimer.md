@@ -1,2 +1,0 @@
-This software is not mine. Provided as is. No warranty. This part is not under the Unlicense - the respective licenses of the software packages apply.  
-Please refer to the individual licenses for any use or distribution.
